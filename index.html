@@ -21,7 +21,6 @@
         <link rel="stylesheet" type="text/css" href="./typography.css" />
         <link rel="stylesheet" type="text/css" media="screen" href="./screen.css" />
         <link rel="stylesheet" type="text/css" media="print" href="./print.css" />
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
         <title>HTML Resume Template</title>
     </head>
     <body class="letter">
@@ -189,8 +188,5 @@
                 </section>
             </section>
         </section>
-        <!-- Script to make elements authorable and save changes to localStorage -->
-        <script type="text/javascript" src="./index.js"></script>
     </body>
-    <!-- Developed by Tom Barrasso. https://barrasso.me -->
 </html>
